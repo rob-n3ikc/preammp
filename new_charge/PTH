@@ -1,0 +1,42 @@
+17
+name pth.n type np charge -0.4937
+name pth.hn type hd charge 0.3018
+name pth.ca type c3 charge 0.0702
+name pth.ha type h charge 0.0164
+name pth.c type c2 charge 0.6731
+name pth.o type o2 charge -0.5854
+name pth.cb type c3 charge  0.4038
+name pth.hb type h charge  -0.0909
+name pth.og1 type o3 charge -0.6375
+name pth.cg2 type c3 charge -0.2117
+name pth.hg21 type h charge 0.0496
+name pth.hg22 type h charge 0.0496
+name pth.hg23 type h charge 0.0496
+name pth.p type p35 charge 1.137
+name pth.o1p type o2 charge -0.501
+name pth.o2p type o2  charge -0.501
+name pth.o3p type o2  charge -0.501
+16
+pth.n pth.hn 1
+pth.n pth.ca 1
+pth.ca pth.c 1
+pth.ca pth.cb 1
+pth.ca pth.ha 1
+pth.c pth.o 1.75
+pth.cb pth.og1 1
+pth.cb pth.cg2 1
+pth.cb pth.hb 1
+pth.cg2 pth.hg21 1
+pth.cg2 pth.hg22 1
+pth.cg2 pth.hg23 1
+pth.og1 pth.p 1.5
+pth.p pth.o1p 1.5
+pth.p pth.o2p 1.5
+pth.p pth.o3p 1.5
+0
+4
+pth.n pth.cb pth.c pth.ca  4 .494427
+pth.n pth.cb pth.c pth.ha  4  1.606971
+pth.ca pth.cg2 pth.og1 pth.cb 4 .496226
+pth.ca pth.cg2 pth.og1 pth.hb 4 1.608710
+0

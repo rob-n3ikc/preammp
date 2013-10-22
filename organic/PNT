@@ -1,0 +1,42 @@
+17
+name PNT.c1 type c3
+name PNT.c2 type c3
+name PNT.c3 type c3
+name PNT.c4 type c3
+name PNT.c5 type c3
+name PNT.h11 type h
+name PNT.h12 type h
+name PNT.h13 type h
+name PNT.h21 type h
+name PNT.h22 type h
+name PNT.h31 type h
+name PNT.h32 type h
+name PNT.h41 type h
+name PNT.h42 type h
+name PNT.h51 type h
+name PNT.h52 type h
+name PNT.h53 type h
+16
+pnt.c1 pnt.h11 1
+pnt.c1 pnt.h12 1
+pnt.c1 pnt.h13 1
+pnt.c1 pnt.c2 1
+pnt.c2 pnt.h21 1
+pnt.c2 pnt.h22 1
+pnt.c2 pnt.c3 1
+pnt.c3 pnt.h31 1
+pnt.c3 pnt.h32 1
+pnt.c3 pnt.c4 1
+pnt.c4 pnt.h41 1
+pnt.c4 pnt.h42 1
+pnt.c4 pnt.c5 1
+pnt.c5 pnt.h51 1
+pnt.c5 pnt.h52 1
+pnt.c5 pnt.h53 1
+0
+0
+0
+0
+
+
+n-pentane

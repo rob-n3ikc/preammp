@@ -1,0 +1,40 @@
+17
+name met.n type np charge -0.4937
+name met.hn type hd charge 0.3018
+name met.ca type c3 charge 0.0110
+name met.ha type h charge 0.0316
+name met.c type c2 charge 0.6731
+name met.o type o2 charge -0.5854
+name met.cb type c3 charge 0.0940
+name met.hb1 type h charge -0.0190
+name met.hb2 type h charge -0.0190
+name met.cg type c3 charge -0.0130
+name met.hg1 type h charge 0.0695
+name met.hg2 type h charge 0.0695
+name met.sd type s34 charge -0.2394
+name met.ce type c3 charge -0.0550
+name met.he1 type h charge 0.0580
+name met.he2 type h charge 0.0580
+name met.he3 type h charge 0.0580
+16
+met.n met.hn 1
+met.n met.ca 1
+met.ca met.c 1
+met.ca met.cb 1
+met.ca met.ha 1
+met.c met.o 1.75
+met.cb met.cg 1
+met.cb met.hb1 1
+met.cb met.hb2 1
+met.cg met.sd 1
+met.cg met.hg1 1
+met.cg met.hg2 1
+met.sd met.ce 1
+met.ce met.he1 1
+met.ce met.he2 1
+met.ce met.he3 1
+0
+2
+met.n met.cb met.c met.ca  4 .494427
+met.n met.cb met.c met.ha  4  1.606971
+0

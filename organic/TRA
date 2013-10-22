@@ -1,0 +1,84 @@
+36
+name tra.n1 type np
+name tra.c2 type c2
+name tra.n3 type np
+name tra.c4 type c2
+name tra.n5 type np
+name tra.c6 type c2
+name tra.o6 type o2
+name tra.o4 type o2
+name tra.o2 type o2
+name tra.ca1 type c3
+name tra.1a1 type h
+name tra.2a1 type h
+name tra.ca2 type c3
+name tra.1a2 type h
+name tra.ca3 type c3
+name tra.1a3 type h
+name tra.2a3 type h
+name tra.oa type o3
+name tra.cb1 type c3
+name tra.1b1 type h
+name tra.2b1 type h
+name tra.cb2 type c3
+name tra.1b2 type h
+name tra.cb3 type c3
+name tra.1b3 type h
+name tra.2b3 type h
+name tra.ob type o3
+name tra.cc1 type c3
+name tra.1c1 type h
+name tra.2c1 type h
+name tra.cc2 type c3
+name tra.1c2 type h
+name tra.cc3 type c3
+name tra.1c3 type h
+name tra.2c3 type h
+name tra.oc type o3
+39
+tra.n1 tra.ca1 1
+tra.n1 tra.c2 1
+tra.c2 tra.o2 2
+tra.c2 tra.n3 1
+tra.n3 tra.cb1 1
+tra.n3 tra.c4 1
+tra.c4 tra.o4 2
+tra.c4 tra.n5 1
+tra.n5 tra.c6 1
+tra.n5 tra.cc1 1
+tra.c6 tra.o6 2
+tra.c6 tra.n1 1
+tra.ca1 tra.1a1 1
+tra.ca1 tra.2a1 1
+tra.ca1 tra.ca2 1
+tra.ca2 tra.1a2 1
+tra.ca2 tra.ca3 1
+tra.ca3 tra.1a3 1
+tra.ca3 tra.2a3 1
+tra.ca3 tra.oa 1
+tra.oa tra.ca2 1
+tra.cb1 tra.1b1 1
+tra.cb1 tra.2b1 1
+tra.cb1 tra.cb2 1
+tra.cb2 tra.1b2 1
+tra.cb2 tra.cb3 1
+tra.cb3 tra.1b3 1
+tra.cb3 tra.2b3 1
+tra.cb3 tra.ob 1
+tra.ob tra.cb2 1
+tra.cc1 tra.1c1 1
+tra.cc1 tra.2c1 1
+tra.cc1 tra.cc2 1
+tra.cc2 tra.1c2 1
+tra.cc2 tra.cc3 1
+tra.cc3 tra.1c3 1
+tra.cc3 tra.2c3 1
+tra.cc3 tra.oc 1
+tra.oc tra.cc2 1
+0
+0
+0
+0
+
+
+triepoxy cyclic amide - a high density epoxide base.

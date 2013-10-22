@@ -1,0 +1,36 @@
+14
+name thr.n type np charge -0.4937
+name thr.hn type hd charge 0.3018
+name thr.ca type c3 charge 0.0702
+name thr.ha type h charge 0.0164
+name thr.c type c2 charge 0.6731
+name thr.o type o2 charge -0.5854
+name thr.cb type c3 charge  0.4038
+name thr.hb type h charge  -0.0909
+name thr.og1 type o3 charge -0.6375
+name thr.hg1 type hd charge 0.4051
+name thr.cg2 type c3 charge -0.2117
+name thr.hg21 type h charge 0.0496
+name thr.hg22 type h charge 0.0496
+name thr.hg23 type h charge 0.0496
+13
+thr.n thr.hn 1
+thr.n thr.ca 1
+thr.ca thr.c 1
+thr.ca thr.cb 1
+thr.ca thr.ha 1
+thr.c thr.o 1.75
+thr.cb thr.og1 1
+thr.cb thr.cg2 1
+thr.cb thr.hb 1
+thr.og1 thr.hg1 1
+thr.cg2 thr.hg21 1
+thr.cg2 thr.hg22 1
+thr.cg2 thr.hg23 1
+0
+4
+thr.n thr.cb thr.c thr.ca  4 .494427
+thr.n thr.cb thr.c thr.ha  4  1.606971
+thr.ca thr.cg2 thr.og1 thr.cb 4 .496226
+thr.ca thr.cg2 thr.og1 thr.hb 4 1.608710
+0

@@ -1,0 +1,44 @@
+19
+name leu.n type np charge -0.4937
+name leu.hn type hd charge 0.3018
+name leu.ca type c3 charge -0.0097 
+name leu.ha type h charge 0.0432
+name leu.c type c2 charge 0.6731
+name leu.o type o2 charge -0.5854
+name leu.cb type c3 charge -0.1322
+name leu.hb1 type h charge 0.0317
+name leu.hb2 type h charge 0.0317
+name leu.cg type c3 charge 0.4429
+name leu.cd1 type c3 charge -0.4312
+name leu.cd2 type c3 charge -0.4312
+name leu.hg type h charge -0.662 
+name leu.hd11 type h charge 0.1042
+name leu.hd12 type h charge 0.1042
+name leu.hd13 type h charge 0.1042
+name leu.hd21 type h charge 0.1042
+name leu.hd22 type h charge 0.1042
+name leu.hd23 type h charge 0.1042
+18
+leu.n leu.hn 1
+leu.n leu.ca 1
+leu.ca leu.c 1
+leu.ca leu.cb 1
+leu.ca leu.ha 1
+leu.c leu.o 1.75
+leu.cb leu.cg 1
+leu.cb leu.hb1 1
+leu.cb leu.hb2 1
+leu.cg leu.cd1 1
+leu.cg leu.cd2 1
+leu.cg leu.hg 1
+leu.cd1 leu.hd11 1
+leu.cd1 leu.hd12 1
+leu.cd1 leu.hd13 1
+leu.cd2 leu.hd21 1 
+leu.cd2 leu.hd22 1
+leu.cd2 leu.hd23 1
+0
+2
+leu.n leu.cb leu.c leu.ca  4 .494427
+leu.n leu.cb leu.c leu.ha  4  1.606971
+0

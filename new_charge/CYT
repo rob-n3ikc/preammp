@@ -1,0 +1,72 @@
+30
+name cyt.p type p35 charge 1.0735
+name cyt.o1p type o2 charge -0.7545
+name cyt.o2p type o2 charge -0.7545
+name cyt.o3' type o3 charge -0.4998
+name cyt.o5' type o3 charge -0.4128
+name cyt.c5' type c3 charge -0.0111
+name cyt.h51' type h charge 0.0662
+name cyt.h52' type h charge 0.0662
+name cyt.c4' type c3 charge 0.0721
+name cyt.h4' type h charge 0.0887
+name cyt.o4' type o3 charge -0.3124
+name cyt.c1' type c3 charge 0.1421
+name cyt.h1' type h charge 0.0851
+name cyt.c2' type c3 charge -0.0561
+name cyt.h21' type h charge 0.0486
+name cyt.h22' type h charge 0.0486
+name cyt.c3' type c3 charge 0.1645
+name cyt.h3' type h charge 0.0623
+name cyt.n1 type nr charge -0.1318
+name cyt.c2 type c2 charge 0.8464
+name cyt.o2 type o2 charge -0.6524
+name cyt.n3 type nr charge -0.7555
+name cyt.c4 type c2 charge 0.7010
+name cyt.n4 type np charge -0.7417
+name cyt.hn41 type hd charge 0.3526
+name cyt.hn42 type hd charge 0.3526
+name cyt.c5 type c2 charge -0.4696
+name cyt.h5 type h charge 0.1833
+name cyt.c6 type c2 charge -0.0155
+name cyt.h6 type h charge 0.2099
+31
+cyt.p cyt.o1p 1.5
+cyt.p cyt.o2p 1.5
+cyt.p cyt.o5' 1
+cyt.o5' cyt.c5' 1
+cyt.c5' cyt.c4' 1
+cyt.c5' cyt.h51' 1
+cyt.c5' cyt.h52' 1
+cyt.c4' cyt.c3' 1
+cyt.c4' cyt.o4' 1
+cyt.c4' cyt.h4' 1
+cyt.c3' cyt.c2' 1
+cyt.c3' cyt.o3' 1
+cyt.c3' cyt.h3' 1
+cyt.c2' cyt.c1' 1
+cyt.c2' cyt.h21' 1
+cyt.c2' cyt.h22' 1
+cyt.c1' cyt.o4' 1
+cyt.c1' cyt.n1 1
+cyt.c1' cyt.h1' 1
+cyt.n1 cyt.c2 1
+cyt.n1 cyt.c6 1
+cyt.c2 cyt.o2 1.5
+cyt.c2 cyt.n3 1.5
+cyt.n3 cyt.c4 1.5
+cyt.c4 cyt.n4 1
+cyt.n4 cyt.hn41 1
+cyt.n4 cyt.hn42 1
+cyt.c4 cyt.c5 1.5
+cyt.c5 cyt.h5 1
+cyt.c5 cyt.c6 1.5
+cyt.c6 cyt.h6 1
+0
+6
+cyt.c2' cyt.c4' cyt.o3' cyt.c3' 6 .554654
+cyt.c2' cyt.c4' cyt.o3' cyt.H3' 6 1.669313
+cyt.c3' cyt.c5' cyt.o4' cyt.c4' 6 .554654
+cyt.c3' cyt.c5' cyt.o4' cyt.H4' 6 1.669313
+cyt.o4' cyt.c2' cyt.h1' cyt.n1  6 1.925983
+cyt.o4' cyt.c2' cyt.h1' cyt.c1' 6 .468722
+

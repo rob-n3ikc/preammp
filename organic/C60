@@ -1,0 +1,158 @@
+60
+name c60.ca1 type ca
+name c60.ca2 type ca
+name c60.ca3 type ca
+name c60.ca4 type ca
+name c60.ca5 type ca
+name c60.cb1 type ca
+name c60.cb2 type ca
+name c60.cb3 type ca
+name c60.cb4 type ca
+name c60.cb5 type ca
+name c60.cc1 type ca
+name c60.cc2 type ca
+name c60.cc3 type ca
+name c60.cc4 type ca
+name c60.cc5 type ca
+name c60.cc6 type ca
+name c60.cc7 type ca
+name c60.cc8 type ca
+name c60.cc9 type ca
+name c60.cca type ca
+name c60.cd1 type ca
+name c60.cd2 type ca
+name c60.cd3 type ca
+name c60.cd4 type ca
+name c60.cd5 type ca
+name c60.cd6 type ca
+name c60.cd7 type ca
+name c60.cd8 type ca
+name c60.cd9 type ca
+name c60.cda type ca
+name c60.ce1 type ca
+name c60.ce2 type ca
+name c60.ce3 type ca
+name c60.ce4 type ca
+name c60.ce5 type ca
+name c60.ce6 type ca
+name c60.ce7 type ca
+name c60.ce8 type ca
+name c60.ce9 type ca
+name c60.cea type ca
+name c60.cf1 type ca
+name c60.cf2 type ca
+name c60.cf3 type ca
+name c60.cf4 type ca
+name c60.cf5 type ca
+name c60.cf6 type ca
+name c60.cf7 type ca
+name c60.cf8 type ca
+name c60.cf9 type ca
+name c60.cfa type ca
+name c60.cg1 type ca
+name c60.cg2 type ca
+name c60.cg3 type ca
+name c60.cg4 type ca
+name c60.cg5 type ca
+name c60.ch1 type ca
+name c60.ch2 type ca
+name c60.ch3 type ca
+name c60.ch4 type ca
+name c60.ch5 type ca
+90
+c60.ca1 c60.ca2 1.5
+c60.ca2 c60.ca3 1.5
+c60.ca3 c60.ca4 1.5
+c60.ca4 c60.ca5 1.5
+c60.ca5 c60.ca1 1.5
+c60.ca1 c60.cb1 1.5
+c60.ca2 c60.cb2 1.5
+c60.ca3 c60.cb3 1.5
+c60.ca4 c60.cb4 1.5
+c60.ca5 c60.cb5 1.5
+c60.cb1 c60.cc1 1.5
+c60.cb1 c60.cca 1.5
+c60.cb2 c60.cc2 1.5
+c60.cb2 c60.cc3 1.5
+c60.cb3 c60.cc4 1.5
+c60.cb3 c60.cc5 1.5
+c60.cb4 c60.cc6 1.5
+c60.cb4 c60.cc7 1.5
+c60.cb5 c60.cc8 1.5
+c60.cb5 c60.cc9 1.5
+c60.cc1 c60.cc2 1.5
+c60.cc3 c60.cc4 1.5
+c60.cc5 c60.cc6 1.5
+c60.cc7 c60.cc8 1.5
+c60.cc9 c60.cca 1.5
+c60.cc1 c60.cd1 1.5
+c60.cc2 c60.cd2 1.5
+c60.cc3 c60.cd3 1.5
+c60.cc4 c60.cd4 1.5
+c60.cc5 c60.cd5 1.5
+c60.cc6 c60.cd6 1.5
+c60.cc7 c60.cd7 1.5
+c60.cc8 c60.cd8 1.5
+c60.cc9 c60.cd9 1.5
+c60.cca c60.cda 1.5
+c60.cda c60.cd1 1.5
+c60.cd2 c60.cd3 1.5
+c60.cd4 c60.cd5 1.5
+c60.cd6 c60.cd7 1.5
+c60.cd8 c60.cd9 1.5
+c60.cd1 c60.ce1 1.5
+c60.cd2 c60.ce2 1.5
+c60.cd3 c60.ce3 1.5
+c60.cd4 c60.ce4 1.5
+c60.cd5 c60.ce5 1.5
+c60.cd6 c60.ce6 1.5
+c60.cd7 c60.ce7 1.5
+c60.cd8 c60.ce8 1.5
+c60.cd9 c60.ce9 1.5
+c60.cda c60.cea 1.5
+c60.ce1 c60.ce2 1.5
+c60.ce3 c60.ce4 1.5
+c60.ce5 c60.ce6 1.5
+c60.ce7 c60.ce8 1.5
+c60.ce9 c60.cea 1.5
+c60.ce1 c60.cf1 1.5
+c60.ce2 c60.cf2 1.5
+c60.ce3 c60.cf3 1.5
+c60.ce4 c60.cf4 1.5
+c60.ce5 c60.cf5 1.5
+c60.ce6 c60.cf6 1.5
+c60.ce7 c60.cf7 1.5
+c60.ce8 c60.cf8 1.5
+c60.ce9 c60.cf9 1.5
+c60.cea c60.cfa 1.5
+c60.cfa c60.cf1 1.5
+c60.cf2 c60.cf3 1.5
+c60.cf4 c60.cf5 1.5
+c60.cf6 c60.cf7 1.5
+c60.cf8 c60.cf9 1.5
+c60.cf2 c60.cg1 1.5
+c60.cf4 c60.cg2 1.5
+c60.cf6 c60.cg3 1.5
+c60.cf8 c60.cg4 1.5
+c60.cfa c60.cg5 1.5
+c60.cf1 c60.cg1 1.5
+c60.cf3 c60.cg2 1.5
+c60.cf5 c60.cg3 1.5
+c60.cf7 c60.cg4 1.5
+c60.cf9 c60.cg5 1.5
+c60.cg1 c60.ch1 1.5
+c60.cg2 c60.ch2 1.5
+c60.cg3 c60.ch3 1.5
+c60.cg4 c60.ch4 1.5
+c60.cg5 c60.ch5 1.5
+c60.ch1 c60.ch2 1.5
+c60.ch2 c60.ch3 1.5
+c60.ch3 c60.ch4 1.5
+c60.ch4 c60.ch5 1.5
+c60.ch5 c60.ch1 1.5
+0
+0
+0
+0
+
+

@@ -1,0 +1,41 @@
+17
+name his.n type np charge -0.4937
+name his.hn type hd charge 0.3018
+name his.ca type c3 charge 0.0860
+name his.ha type h charge 0.0068
+name his.c type c2 charge 0.6731
+name his.o type o2 charge -0.5854
+name his.cb type c3 charge -0.0602
+name his.hb1 type h charge 0.0367
+name his.hb2 type h charge 0.0367
+name his.cg type c2 charge  0.0586
+name his.nd1 type n2 charge -0.1647
+name his.cd2 type c2 charge 0.0103
+name his.ce1 type c2 charge 0.0985
+name his.ne2 type n2 charge -0.4715
+name his.hd1 type hd charge 0.2721
+name his.hd2 type h charge 0.0933
+name his.he1 type h charge 0.1016
+17
+his.n his.hn 1
+his.n his.ca 1
+his.ca his.c 1
+his.ca his.cb 1
+his.ca his.ha 1
+his.c his.o 1.75
+his.cb his.cg 1
+his.cb his.hb1 1
+his.cb his.hb2 1
+his.cg his.nd1 1
+his.cg his.cd2 2
+his.nd1 his.ce1 2
+his.cd2 his.ne2 1
+his.ce1 his.ne2 1
+his.nd1 his.hd1 1
+his.cd2 his.hd2 1
+his.ce1 his.he1 1
+0
+2
+his.n his.cb his.c his.ca  4 .494427
+his.n his.cb his.c his.ha  4  1.606971
+0

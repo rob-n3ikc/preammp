@@ -1,0 +1,75 @@
+31
+name gu5.ho5t type hd charge  0.4109
+name gu5.o3' type o3 charge -0.4998
+name gu5.o5' type o3 charge -0.5671
+name gu5.c5' type c3 charge -0.0111
+name gu5.h51' type h charge 0.0662
+name gu5.h52' type h charge 0.0662
+name gu5.c4' type c3 charge 0.0721
+name gu5.h4' type h charge 0.0887
+name gu5.c3' type c3 charge 0.1645
+name gu5.h3' type h charge 0.0623
+name gu5.c2' type c3 charge -0.0561
+name gu5.h21' type h charge 0.0486
+name gu5.h22' type h charge 0.0486
+name gu5.c1' type c3 charge 0.1557
+name gu5.h1' type h charge 0.0886
+name gu5.o4' type o3 charge -0.3124
+name gu5.n9 type nr charge -0.0379
+name gu5.c4 type c2 charge 0.2909
+name gu5.c8 type c2 charge 0.1353
+name gu5.h8 type h charge 0.1508
+name gu5.n3 type nr charge -0.728
+name gu5.c2 type c2 charge 0.63841
+name gu5.n2 type np charge -0.7508
+name gu5.hn21 type hd charge 0.3443
+name gu5.hn22 type hd charge 0.3443
+name gu5.n1 type nr charge -0.5405
+name gu5.hn1 type hd charge 0.3750
+name gu5.c6 type c2 charge 0.5071
+name gu5.o6 type o2 charge -0.5301
+name gu5.c5 type c2 charge -0.0585
+name gu5.n7 type nb charge -0.5139
+32
+gu5.ho5t gu5.o5' 1
+gu5.o5' gu5.c5' 1
+gu5.c5' gu5.c4' 1
+gu5.c5' gu5.h51' 1
+gu5.c5' gu5.h52' 1
+gu5.c4' gu5.c3' 1
+gu5.c4' gu5.o4' 1
+gu5.c4' gu5.h4' 1
+gu5.c3' gu5.c2' 1
+gu5.c3' gu5.o3' 1
+gu5.c3' gu5.h3' 1
+gu5.c2' gu5.c1' 1
+gu5.c2' gu5.h21' 1
+gu5.c2' gu5.h22' 1
+gu5.c1' gu5.o4' 1
+gu5.c1' gu5.n9 1
+gu5.c1' gu5.h1' 1
+gu5.n9 gu5.c4 1
+gu5.n9 gu5.c8 1
+gu5.c4 gu5.n3 1.5
+gu5.n3 gu5.c2 1.5
+gu5.c2 gu5.n2 1
+gu5.n2 gu5.hn21 1
+gu5.n2 gu5.hn22 1
+gu5.c2 gu5.n1 1.5
+gu5.n1 gu5.hn1 1
+gu5.n1 gu5.c6 1.5
+gu5.c6 gu5.c5 1.5
+gu5.c6 gu5.o6 1.5
+gu5.c5 gu5.c4 1.5
+gu5.c5 gu5.n7 1
+gu5.n7 gu5.c8 2
+gu5.c8 gu5.h8 1
+0
+6
+gu5.o4' gu5.c2' gu5.h1' gu5.n9  6 1.925983
+gu5.o4' gu5.c2' gu5.h1' gu5.c1' 6 .468722
+gu5.c2' gu5.c4' gu5.o3' gu5.c3' 6 .554654
+gu5.c2' gu5.c4' gu5.o3' gu5.H3' 6 1.669313
+gu5.c3' gu5.c5' gu5.o4' gu5.c4' 6 .554654
+gu5.c3' gu5.c5' gu5.o4' gu5.H4' 6 1.669313
+0

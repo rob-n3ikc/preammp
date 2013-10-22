@@ -1,0 +1,68 @@
+28
+name cy5.ho5t type hd charge 0.4109
+name cy5.o3' type o3 charge -0.4998
+name cy5.o5' type o3 charge -0.5671
+name cy5.c5' type c3 charge -0.0111
+name cy5.h51' type h charge 0.0662
+name cy5.h52' type h charge 0.0662
+name cy5.c4' type c3 charge 0.0721
+name cy5.h4' type h charge 0.0887
+name cy5.o4' type o3 charge -0.3124
+name cy5.c1' type c3 charge 0.1421
+name cy5.h1' type h charge 0.0851
+name cy5.c2' type c3 charge -0.0561
+name cy5.h21' type h charge 0.0486
+name cy5.h22' type h charge 0.0486
+name cy5.c3' type c3 charge 0.1645
+name cy5.h3' type h charge 0.0623
+name cy5.n1 type nr charge -0.1318
+name cy5.c2 type c2 charge 0.8464
+name cy5.o2 type o2 charge -0.6524
+name cy5.n3 type nr charge -0.7555
+name cy5.c4 type c2 charge 0.7010
+name cy5.n4 type np charge -0.7417
+name cy5.hn41 type hd charge 0.3526
+name cy5.hn42 type hd charge 0.3526
+name cy5.c5 type c2 charge -0.4696
+name cy5.h5 type h charge 0.1833
+name cy5.c6 type c2 charge -0.0155
+name cy5.h6 type h charge 0.2099
+31
+cy5.ho5t cy5.o5' 1
+cy5.o5' cy5.c5' 1
+cy5.c5' cy5.c4' 1
+cy5.c5' cy5.h51' 1
+cy5.c5' cy5.h52' 1
+cy5.c4' cy5.c3' 1
+cy5.c4' cy5.o4' 1
+cy5.c4' cy5.h4' 1
+cy5.c3' cy5.c2' 1
+cy5.c3' cy5.o3' 1
+cy5.c3' cy5.h3' 1
+cy5.c2' cy5.c1' 1
+cy5.c2' cy5.h21' 1
+cy5.c2' cy5.h22' 1
+cy5.c1' cy5.o4' 1
+cy5.c1' cy5.n1 1
+cy5.c1' cy5.h1' 1
+cy5.n1 cy5.c2 1
+cy5.n1 cy5.c6 1
+cy5.c2 cy5.o2 1.5
+cy5.c2 cy5.n3 1.5
+cy5.n3 cy5.c4 1.5
+cy5.c4 cy5.n4 1
+cy5.n4 cy5.hn41 1
+cy5.n4 cy5.hn42 1
+cy5.c4 cy5.c5 1.5
+cy5.c5 cy5.h5 1
+cy5.c5 cy5.c6 1.5
+cy5.c6 cy5.h6 1
+0
+6
+cy5.c2' cy5.c4' cy5.o3' cy5.c3' 6 .554654
+cy5.c2' cy5.c4' cy5.o3' cy5.H3' 6 1.669313
+cy5.c3' cy5.c5' cy5.o4' cy5.c4' 6 .554654
+cy5.c3' cy5.c5' cy5.o4' cy5.H4' 6 1.669313
+cy5.o4' cy5.c2' cy5.h1' cy5.n1  6 1.925983
+cy5.o4' cy5.c2' cy5.h1' cy5.c1' 6 .468722
+

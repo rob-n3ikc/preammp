@@ -1,0 +1,56 @@
+24
+name trp.n type np charge -0.4937
+name trp.hn type hd charge 0.3018
+name trp.ca type c3 charge 0.0233
+name trp.ha type h charge 0.0376
+name trp.c type c2 charge 0.6731
+name trp.o type o2 charge -0.5854
+name trp.cb type c3 charge -0.0168
+name trp.hb1 type h charge 0.0307
+name trp.hb2 type h charge 0.0307
+name trp.cg type ca charge -0.0988
+name trp.cd1 type ca charge -0.0808
+name trp.cd2 type ca charge 0.0768
+name trp.ne1 type nr charge -0.3542
+name trp.ce2 type ca charge 0.1656
+name trp.ce3 type ca charge -0.2159
+name trp.cz2 type ca charge -0.2279
+name trp.cz3 type ca charge -0.1494
+name trp.ch2 type ca charge -0.1110
+name trp.hd1 type h charge 0.1434
+name trp.he1 type hd charge 0.3403
+name trp.he3 type h charge 0.1561
+name trp.hz2 type h charge 0.1382
+name trp.hz3 type h charge 0.1087
+name trp.hh2 type h charge 0.1076
+25
+trp.n trp.hn 1
+trp.n trp.ca 1
+trp.ca trp.c 1
+trp.ca trp.cb 1
+trp.ca trp.ha 1
+trp.c trp.o 1.75
+trp.cb trp.cg 1
+trp.cb trp.hb1 1
+trp.cb trp.hb2 1
+trp.cg trp.cd1 1.5
+trp.cg trp.cd2 1.5
+trp.cd1 trp.ne1 1.5
+trp.ne1 trp.ce2 1.5
+trp.cd2 trp.ce2 1.5
+trp.cd2 trp.ce3 1.5
+trp.ce2 trp.cz2 1.5
+trp.ce3 trp.cz3 1.5
+trp.cz2 trp.ch2 1.5
+trp.cz3 trp.ch2 1.5
+trp.cd1 trp.hd1 1
+trp.ne1 trp.he1 1
+trp.ce3 trp.he3 1
+trp.cz2 trp.hz2 1
+trp.cz3 trp.hz3 1
+trp.ch2 trp.hh2 1
+0
+2
+trp.n trp.cb trp.c trp.ca  4 .494427
+trp.n trp.cb trp.c trp.ha  4  1.606971
+0
